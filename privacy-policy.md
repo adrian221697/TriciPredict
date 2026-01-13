@@ -30,4 +30,4 @@ TriciPredict no está dirigida a menores de 13 años.
 Esta política puede actualizarse. Los cambios se publicarán en esta misma página.
 
 ## 7. Contacto
-Correo de contacto: **tricipredict.app@gmail.com**
+Correo de contacto: **javbaqueadrian@gmail.com**
